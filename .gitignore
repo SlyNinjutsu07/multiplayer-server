@@ -1,0 +1,10 @@
+# Editor folders
+.vs/
+.vscode/
+
+# Build output
+build/
+*.exe
+
+# Client dependencies
+node_modules/
