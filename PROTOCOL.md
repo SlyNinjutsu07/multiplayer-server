@@ -3,7 +3,7 @@
 Input Request Data:
 
 type: input | output
-seq: some number
+seq: int 
 up: bool
 down: bool
 left: bool
