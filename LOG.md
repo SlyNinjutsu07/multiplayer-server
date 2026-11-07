@@ -10,3 +10,12 @@ I have to say, I absolutely enjoyed reading it because I actually developed an u
 I got some of the project directory layout done with the help of asking Gemini and Claude on how to do what and what (such as how on earth I handle packets of data, or how to start a clock for the live game).
 
 
+## 11.6.26
+
+Just added a basic tick rate to this custom server. Still very basic architecture as of right now, however, I at
+least got a timer going 😁.
+
+**TO-DO**
+- Add functionality for the network manager using websockets
+- Add packet attributes, world attributes, player attributes
+- flesh out the client-side code
